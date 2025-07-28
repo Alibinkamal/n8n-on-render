@@ -3,7 +3,7 @@ services:
     name: n8n
     env: docker
     repo: https://github.com/Alibinkamal/n8n-on-render
-    branch: main
+    branch: master
     dockerfilePath: Dockerfile
     healthCheckPath: /
     autoDeploy: true
